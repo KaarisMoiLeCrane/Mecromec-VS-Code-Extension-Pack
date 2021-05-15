@@ -32,7 +32,7 @@ Mecromec VS Code Extension pack is an extension pack for Visual Studio Code made
   - A VS Code extension that allows you to toggle the formatter (Prettier, Beautify, …) ON and OFF with a simple click.
 - [📦 Guides](https://marketplace.visualstudio.com/items?itemName=spywhere.guides)
   - An extension for more guide lines.
-- [📦 HTML CSS Support](http.s://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
+- [📦 HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css)
   - CSS Intellisense for HTML
 - [📦 Icon Fonts](https://marketplace.visualstudio.com/items?itemName=idleberg.icon-fonts)
   - Snippets for popular icon fonts such as Font Awesome, Ionicons, Glyphicons, Octicons, Material Design Icons and many more!
