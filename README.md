@@ -1,6 +1,6 @@
 # Mecromec VS Code Extension Pack
 
-Mecromec VS Code Extension pack is an extension pack for Visual Studio Code made by Kaaris_Moi_Le_Crane.
+Mecromec VS Code Extension pack is an extension pack for Visual Studio Code made and used by Kaaris_Moi_Le_Crane.
 
 ## Extensions included
 
