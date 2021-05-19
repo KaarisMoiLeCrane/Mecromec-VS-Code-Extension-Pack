@@ -77,7 +77,7 @@ Mecromec VS Code Extension pack is an extension pack for Visual Studio Code made
 
 3- Click on ``...``
 
-![Threedots](https://github.com/KaarisMoiLeCrane/Mecromec-VS-Code-Extension-Pack/blob/6b476ddcce5d41acf13a7d78b806c3e0a53f7a17/media/Threedots.png)
+![Threedots](https://raw.githubusercontent.com/KaarisMoiLeCrane/Mecromec-VS-Code-Extension-Pack/main/media/Threedots.png)
 
 4- And click on ``Install From VSIX...``
 
