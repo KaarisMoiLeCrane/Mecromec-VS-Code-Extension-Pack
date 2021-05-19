@@ -69,7 +69,7 @@ Mecromec VS Code Extension pack is an extension pack for Visual Studio Code made
 - [📦 Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=visualstudioexptteam.vscodeintellicode)
   - AI-assisted development.
 
-## Installation (Windows)
+## Installation
 
 1- Download the extension pack [here](https://github.com/KaarisMoiLeCrane/Mecromec-VS-Code-Extension-Pack/raw/main/Mecromec.vsix).
 
